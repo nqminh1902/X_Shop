@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 $host = "localhost";
-$user = "webgiay";
+$user = "root";
 $password = "";
 $datbase = "webgiay";
 $links = mysqli_connect($host, $user, $password);
